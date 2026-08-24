@@ -1,0 +1,17 @@
+{
+  "dataset": "F:\\Study\\ComputerScience\\Computer_2026_Spring_Term\\Natural_Language_Processing\\lab\\lab08\\data\\sample_title_data.json",
+  "train_sample_count": 4,
+  "validation_sample_count": 2,
+  "placeholder_route": {
+    "status": "placeholder",
+    "message": "Future extension point: replace heuristic title generation with a pretrained title generation model when datasets and dependencies are available."
+  },
+  "held_out_metrics": {
+    "exact_match": 0.0,
+    "f1": 0.7408695652173913
+  },
+  "starter_replay_metrics": {
+    "exact_match": 0.0,
+    "f1": 0.6208881456707543
+  }
+}

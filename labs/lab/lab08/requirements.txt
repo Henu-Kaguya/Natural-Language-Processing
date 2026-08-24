@@ -1,0 +1,2 @@
+# Local starter uses Python standard library only.
+# Future pretrained title generation routes may require paddlenlp and external datasets.
