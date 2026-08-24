@@ -1,0 +1,42 @@
+{
+  "dataset": "F:\\Study\\ComputerScience\\Computer_2026_Spring_Term\\Natural_Language_Processing\\lab\\lab04\\data\\spam_samples.csv",
+  "sample_count": 20,
+  "vocabulary_size": 134,
+  "confusion_matrix": [
+    [
+      2,
+      1
+    ],
+    [
+      0,
+      3
+    ]
+  ],
+  "classification_report": {
+    "ham": {
+      "precision": 1.0,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.8,
+      "support": 3.0
+    },
+    "spam": {
+      "precision": 0.75,
+      "recall": 1.0,
+      "f1-score": 0.8571428571428571,
+      "support": 3.0
+    },
+    "accuracy": 0.8333333333333334,
+    "macro avg": {
+      "precision": 0.875,
+      "recall": 0.8333333333333333,
+      "f1-score": 0.8285714285714285,
+      "support": 6.0
+    },
+    "weighted avg": {
+      "precision": 0.875,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.8285714285714286,
+      "support": 6.0
+    }
+  }
+}
