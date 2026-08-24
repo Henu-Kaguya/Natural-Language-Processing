@@ -1,0 +1,52 @@
+{
+  "samples": [
+    {
+      "id": "qa-1",
+      "context": "李雷在北京大学计算机学院读书，导师是张教授。",
+      "question": "李雷在哪里读书？",
+      "answers": [
+        {"text": "北京大学计算机学院", "answer_start": 3}
+      ]
+    },
+    {
+      "id": "qa-2",
+      "context": "韩梅梅毕业后加入华为云部门，从事机器学习平台研发。",
+      "question": "韩梅梅加入了哪个部门？",
+      "answers": [
+        {"text": "华为云部门", "answer_start": 8}
+      ]
+    },
+    {
+      "id": "qa-3",
+      "context": "张三来自上海，目前在深圳创业。",
+      "question": "张三来自哪里？",
+      "answers": [
+        {"text": "上海", "answer_start": 4}
+      ]
+    },
+    {
+      "id": "qa-4",
+      "context": "王芳在腾讯会议团队负责语音识别模型优化。",
+      "question": "王芳负责什么工作？",
+      "answers": [
+        {"text": "语音识别模型优化", "answer_start": 11}
+      ]
+    },
+    {
+      "id": "qa-5",
+      "context": "复旦大学位于上海，是一所知名综合性大学。",
+      "question": "复旦大学位于哪里？",
+      "answers": [
+        {"text": "上海", "answer_start": 6}
+      ]
+    },
+    {
+      "id": "qa-6",
+      "context": "成都高新区聚集了大量人工智能初创企业。",
+      "question": "哪里聚集了大量人工智能初创企业？",
+      "answers": [
+        {"text": "成都高新区", "answer_start": 0}
+      ]
+    }
+  ]
+}

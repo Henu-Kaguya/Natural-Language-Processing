@@ -1,0 +1,17 @@
+{
+  "dataset": "F:\\Study\\ComputerScience\\Computer_2026_Spring_Term\\Natural_Language_Processing\\lab\\lab07\\data\\sample_qa.json",
+  "train_sample_count": 4,
+  "validation_sample_count": 2,
+  "placeholder_route": {
+    "status": "placeholder",
+    "message": "Future extension point: replace heuristic extraction with a pretrained extractive QA model when dependencies and datasets are available."
+  },
+  "held_out_metrics": {
+    "exact_match": 0.0,
+    "f1": 0.4444444444444445
+  },
+  "starter_replay_metrics": {
+    "exact_match": 0.0,
+    "f1": 0.35168234596152215
+  }
+}
