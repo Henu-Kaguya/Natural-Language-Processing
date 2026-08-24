@@ -1,0 +1,30 @@
+king queen royal crown palace kingdom throne
+queen king royal crown palace kingdom throne
+king prince man royal leader kingdom
+queen princess woman royal leader kingdom
+king queen family royal palace throne
+queen king family royal palace throne
+she her woman queen sister mother
+her she woman queen sister mother
+she queen woman royal family palace
+her queen woman royal family palace
+topic theme subject idea article meaning
+theme topic subject idea article meaning
+topic theme discussion sentence article text
+theme topic discussion sentence article text
+one name label title token identifier
+name one label title token identifier
+name word title term identifier label
+one word title term identifier label
+woman game player team score coach
+game woman player team score coach
+game team player season score match
+woman player team season score match
+king queen man woman royal family
+queen king woman man royal family
+topic theme article title sentence word
+name one number word symbol identifier
+royal palace crown throne kingdom leader
+subject idea article text discussion meaning
+player team score coach season game
+label title term word symbol name
