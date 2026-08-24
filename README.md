@@ -1,12 +1,12 @@
-﻿# 自然语言处理 (Natural Language Processing) 课程与实验全集
+# 自然语言处理 (Natural Language Processing) 课程与实验全集
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-ee4c2c.svg)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)
 
-本仓库为**自然语言处理 (Natural Language Processing)** 课程的完整学习归档与开源实验项目集。包含核心课件、课后编程作业与案例分析，以及 8 大经典 NLP 实验的全套可运行代码、测试用例、图表与标准化实验报告。
+本项目为**自然语言处理 (Natural Language Processing)** 课程的完整学习归档与开源实验项目集。包含核心课件、课后编程作业与案例分析、大作业论文复现 (SDFT) 全套报告与周报，以及 8 大经典 NLP 实验的全套可运行代码、测试用例、图表与标准化实验报告。
 
 ---
 
@@ -15,6 +15,7 @@
 ```
 Natural_Language_Processing/
 ├── README.md                                 # 仓库主页与实验索引
+├── LICENSE                                   # CC BY-NC-SA 4.0 开源协议
 ├── .gitignore                                # Git 忽略规则配置
 │
 ├── slides/                                   # 教学课件与幻灯片
@@ -27,19 +28,27 @@ Natural_Language_Processing/
 │       ├── CH06/                             # 第6章 Transformer 机器翻译代码解析与实现
 │       └── CH07/                             # 第7章 文本分类 (SVM 与 Logistic Regression)
 │
-└── labs/                                     # 8 大核心实验体系
-    └── lab/
-        ├── lab01/                            # 实验1：中文分词 (HMM 与 Viterbi 算法)
-        ├── lab02/                            # 实验2：关键词提取 (TextRank 与 TF-IDF)
-        ├── lab03/                            # 实验3：词向量技术 (Skip-gram 模型)
-        ├── lab04/                            # 实验4：垃圾邮件分类 (多项式朴素贝叶斯)
-        ├── lab05/                            # 实验5：命名实体识别 (BiLSTM-CRF)
-        ├── lab06/                            # 实验6：实体关系联合抽取 (Tagging Schema)
-        ├── lab07/                            # 实验7：抽取式机器阅读理解 (Extractive QA)
-        ├── lab08/                            # 实验8：文本标题自动生成 (Seq2Seq)
-        ├── chapter07/                        # 第7章 进阶文本分类源码与模型
-        ├── chapter08/                        # 第8章 序列标注与关系抽取扩展资源
-        └── 《自然语言处理》实验指导书.pdf        # 课程配套实验指导书
+├── labs/                                     # 核心实验体系与课程大作业
+│   ├── lab/                                  # 8 大基础/进阶实验
+│   │   ├── lab01/                            # 实验1：中文分词 (HMM 与 Viterbi 算法)
+│   │   ├── lab02/                            # 实验2：关键词提取 (TextRank 与 TF-IDF)
+│   │   ├── lab03/                            # 实验3：词向量技术 (Skip-gram 模型)
+│   │   ├── lab04/                            # 实验4：垃圾邮件分类 (多项式朴素贝叶斯)
+│   │   ├── lab05/                            # 实验5：命名实体识别 (BiLSTM-CRF)
+│   │   ├── lab06/                            # 实验6：实体关系联合抽取 (Tagging Schema)
+│   │   ├── lab07/                            # 实验7：抽取式机器阅读理解 (Extractive QA)
+│   │   ├── lab08/                            # 实验8：文本标题自动生成 (Seq2Seq)
+│   │   ├── chapter07/                        # 第7章 进阶文本分类源码与模型
+│   │   ├── chapter08/                        # 第8章 序列标注与关系抽取扩展资源
+│   │   └── 《自然语言处理》实验指导书.pdf        # 课程配套实验指导书
+│   └── Project/                              # 期末大作业：ACL 论文复现 (SDFT)
+│       ├── 自然语言处理_SDFT论文复现_总结报告.md
+│       ├── weekly_reports/                   # 8 周复现进展周报
+│       └── NLP研究领域常见问题与关键词中英文对照.md
+│
+└── review/                                   # 结课复习与答辩汇报
+    ├── notes/                                # SDFT 答辩复习指南
+    └── slides/                               # SDFT 论文复现汇报幻灯片
 ```
 
 ---
@@ -71,8 +80,8 @@ Natural_Language_Processing/
 
 ### 1. 克隆仓库
 ```bash
-git clone https://github.com/<your-username>/Natural_Language_Processing.git
-cd Natural_Language_Processing
+git clone https://github.com/Henu-Kaguya/Natural-Language-Processing.git
+cd Natural-Language-Processing
 ```
 
 ### 2. 环境配置
@@ -98,5 +107,5 @@ python lab04_text_classification.py
 
 ## 📄 许可声明与安全声明
 
-- 本项目代码遵循 [MIT License](LICENSE) 开源许可。
+- 本项目采用 [CC BY-NC-SA 4.0 (知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议)](LICENSE) 进行许可。
 - 本仓库所涉及的所有个人姓名、学号与院校隐私均已做严格脱敏处理。
