@@ -1,0 +1,115 @@
+张 B-PER
+三 I-PER
+在 O
+北 B-ORG
+京 I-ORG
+大 I-ORG
+学 I-ORG
+读 O
+书 O
+
+李 B-PER
+雷 I-PER
+加 O
+入 O
+华 B-ORG
+为 I-ORG
+公 I-ORG
+司 I-ORG
+
+王 B-PER
+芳 I-PER
+来 O
+自 O
+上 B-LOC
+海 I-LOC
+
+刘 B-PER
+强 I-PER
+在 O
+腾 B-ORG
+讯 I-ORG
+工 O
+作 O
+
+赵 B-PER
+敏 I-PER
+去 O
+了 O
+西 B-ORG
+安 I-ORG
+交 I-ORG
+通 I-ORG
+大 I-ORG
+学 I-ORG
+
+陈 B-PER
+晨 I-PER
+访 O
+问 O
+阿 B-ORG
+里 I-ORG
+巴 I-ORG
+巴 I-ORG
+总 O
+部 O
+
+孙 B-PER
+浩 I-PER
+在 O
+成 B-LOC
+都 I-LOC
+高 B-ORG
+新 I-ORG
+区 I-ORG
+创 O
+业 O
+
+周 B-PER
+洁 I-PER
+就 O
+职 O
+于 O
+字 B-ORG
+节 I-ORG
+跳 I-ORG
+动 I-ORG
+
+林 B-PER
+涛 I-PER
+前 O
+往 O
+南 B-ORG
+京 I-ORG
+大 I-ORG
+学 I-ORG
+
+何 B-PER
+琳 I-PER
+参 O
+观 O
+复 B-ORG
+旦 I-ORG
+大 I-ORG
+学 I-ORG
+
+吴 B-PER
+刚 I-PER
+来 O
+到 O
+深 B-LOC
+圳 I-LOC
+华 B-ORG
+强 I-ORG
+北 I-ORG
+
+唐 B-PER
+宁 I-PER
+在 O
+杭 B-LOC
+州 I-LOC
+阿 B-ORG
+里 I-ORG
+云 I-ORG
+任 O
+职 O
