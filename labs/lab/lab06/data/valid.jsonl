@@ -1,0 +1,8 @@
+{"text": "李彦宏创立了百度公司", "spo_list": [{"subject": "李彦宏", "subject_type": "PER", "predicate": "founder_of", "object": "百度公司", "object_type": "ORG"}]}
+{"text": "王健林居住在大连", "spo_list": [{"subject": "王健林", "subject_type": "PER", "predicate": "lives_in", "object": "大连", "object_type": "LOC"}]}
+{"text": "陈天桥毕业于复旦大学", "spo_list": [{"subject": "陈天桥", "subject_type": "PER", "predicate": "educated_at", "object": "复旦大学", "object_type": "ORG"}]}
+{"text": "曹国伟在新浪公司工作", "spo_list": [{"subject": "曹国伟", "subject_type": "PER", "predicate": "works_for", "object": "新浪公司", "object_type": "ORG"}]}
+{"text": "梁建章访问了携程总部", "spo_list": [{"subject": "梁建章", "subject_type": "PER", "predicate": "visits", "object": "携程总部", "object_type": "ORG"}]}
+{"text": "张一鸣创立了字节跳动", "spo_list": [{"subject": "张一鸣", "subject_type": "PER", "predicate": "founder_of", "object": "字节跳动", "object_type": "ORG"}]}
+{"text": "柳传志在中关村创业", "spo_list": [{"subject": "柳传志", "subject_type": "PER", "predicate": "located_in", "object": "中关村", "object_type": "LOC"}]}
+{"text": "俞敏洪毕业于北京大学", "spo_list": [{"subject": "俞敏洪", "subject_type": "PER", "predicate": "educated_at", "object": "北京大学", "object_type": "ORG"}]}
