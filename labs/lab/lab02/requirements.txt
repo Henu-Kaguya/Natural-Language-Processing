@@ -1,0 +1,5 @@
+jieba==0.42.1
+textrank4zh==0.3
+networkx<3
+scipy>=1.13
+python-docx==1.2.0
