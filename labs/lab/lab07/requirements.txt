@@ -1,0 +1,2 @@
+# Local starter uses Python standard library only.
+# Future pretrained-model routes may require paddlenlp and external QA datasets.

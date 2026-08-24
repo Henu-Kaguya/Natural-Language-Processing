@@ -1,0 +1,78 @@
+{
+  "held_out_predictions": [
+    {
+      "id": "qa-3",
+      "question": "张三来自哪里？",
+      "context": "张三来自上海，目前在深圳创业。",
+      "gold_answer": "上海",
+      "predicted_answer": "张三来自上海，目前在",
+      "exact_match": 0.0,
+      "f1": 0.33333333333333337
+    },
+    {
+      "id": "qa-2",
+      "question": "韩梅梅加入了哪个部门？",
+      "context": "韩梅梅毕业后加入华为云部门，从事机器学习平台研发。",
+      "gold_answer": "华为云部门",
+      "predicted_answer": "韩梅梅毕业后加入华为云部门",
+      "exact_match": 0.0,
+      "f1": 0.5555555555555556
+    }
+  ],
+  "starter_replay_predictions": [
+    {
+      "id": "qa-1",
+      "question": "李雷在哪里读书？",
+      "context": "李雷在北京大学计算机学院读书，导师是张教授。",
+      "gold_answer": "北京大学计算机学院",
+      "predicted_answer": "李雷在北京大学计算机学院读书",
+      "exact_match": 0.0,
+      "f1": 0.782608695652174
+    },
+    {
+      "id": "qa-2",
+      "question": "韩梅梅加入了哪个部门？",
+      "context": "韩梅梅毕业后加入华为云部门，从事机器学习平台研发。",
+      "gold_answer": "华为云部门",
+      "predicted_answer": "韩梅梅毕业后加入华为云部门",
+      "exact_match": 0.0,
+      "f1": 0.5555555555555556
+    },
+    {
+      "id": "qa-3",
+      "question": "张三来自哪里？",
+      "context": "张三来自上海，目前在深圳创业。",
+      "gold_answer": "上海",
+      "predicted_answer": "张三来自上海，目前在",
+      "exact_match": 0.0,
+      "f1": 0.33333333333333337
+    },
+    {
+      "id": "qa-4",
+      "question": "王芳负责什么工作？",
+      "context": "王芳在腾讯会议团队负责语音识别模型优化。",
+      "gold_answer": "语音识别模型优化",
+      "predicted_answer": "王芳在腾讯会议团队负责",
+      "exact_match": 0.0,
+      "f1": 0.0
+    },
+    {
+      "id": "qa-5",
+      "question": "复旦大学位于哪里？",
+      "context": "复旦大学位于上海，是一所知名综合性大学。",
+      "gold_answer": "上海",
+      "predicted_answer": "复旦大学位于上海，是",
+      "exact_match": 0.0,
+      "f1": 0.33333333333333337
+    },
+    {
+      "id": "qa-6",
+      "question": "哪里聚集了大量人工智能初创企业？",
+      "context": "成都高新区聚集了大量人工智能初创企业。",
+      "gold_answer": "成都高新区",
+      "predicted_answer": "区聚集了大量人工智能初创企业",
+      "exact_match": 0.0,
+      "f1": 0.10526315789473682
+    }
+  ]
+}
