@@ -1,0 +1,27 @@
+[
+  {
+    "word1": "king",
+    "word2": "queen",
+    "cosine": 0.17927718713590837
+  },
+  {
+    "word1": "she",
+    "word2": "her",
+    "cosine": 0.6008650914537162
+  },
+  {
+    "word1": "topic",
+    "word2": "theme",
+    "cosine": 0.4616106283197946
+  },
+  {
+    "word1": "woman",
+    "word2": "game",
+    "cosine": -0.0012267443995095427
+  },
+  {
+    "word1": "one",
+    "word2": "name",
+    "cosine": 0.31091337443936506
+  }
+]

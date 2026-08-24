@@ -1,0 +1,13 @@
+{
+  "corpus_path": "F:\\Study\\ComputerScience\\Computer_2026_Spring_Term\\Natural_Language_Processing\\lab\\lab03\\data\\skipgram_corpus.txt",
+  "output_dir": "F:\\Study\\ComputerScience\\Computer_2026_Spring_Term\\Natural_Language_Processing\\lab\\lab03\\outputs",
+  "embedding_dim": 32,
+  "window_size": 2,
+  "epochs": 160,
+  "batch_size": 16,
+  "learning_rate": 0.03,
+  "min_count": 1,
+  "validation_ratio": 0.1,
+  "log_every": 20,
+  "device": "cpu"
+}
