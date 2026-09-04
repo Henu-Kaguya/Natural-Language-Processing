@@ -109,3 +109,16 @@ python lab04_text_classification.py
 
 - 本项目采用 [CC BY-NC-SA 4.0 (知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议)](LICENSE) 进行许可。
 - 本仓库所涉及的所有个人姓名、学号与院校隐私均已做严格脱敏处理。
+
+## 大型资料下载
+
+课程课件、高阶实验与实验指导书已移至 [archive-2026 Release](https://github.com/Henu-Kaguya/Natural-Language-Processing/releases/tag/archive-2026)：
+
+| Release 资产 | 说明 |
+|---|---|
+| `nlp-slides.zip` | NLP 核心教学课件（PPTX 共 2 个文件） |
+| `nlp-lab-chapter07.zip` | 第 7 章 自适应决策边界模型与文本分类工程代码与数据 |
+| `nlp-lab-chapter08.zip` | 第 8 章 基于 LSTM 的命名实体识别模型权重与大型标注数据集 |
+| `nlp-lab-manual.pdf` | 《自然语言处理》全套实验指导书规范手册（原生 PDF） |
+
+`lab01` 至 `lab08` 基础实验代码与 `exercises/` 继续在 Git 中维护。
